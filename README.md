@@ -2,7 +2,7 @@
 Question 1:
 <pre>
 Write a program in C++ to print the following pattern:<br/>
-<br/>
+
 1 2 3 4 5 6 7<br/>
  2 3 4 5 6 7<br/>
   3 4 5 6 7<br/>
@@ -33,6 +33,7 @@ substring ‘YZX’ present at index 2<br/>
 substring ‘XZY’ present at index 4<br/>
 substring ‘YZX’ present at index 6<br/>
 substring ‘XYZ’ present at index 9<br/>
+</br>
 </pre>
 Solution Output:<br/>
 ![alt text](https://github.com/neerajkumar78/Assignment/blob/master/Tutree_Assignment/Question_2/output.png)<br/>
