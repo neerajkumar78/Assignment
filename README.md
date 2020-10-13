@@ -3,22 +3,22 @@ Question 1:
 
 Write a program in C++ to print the following pattern:<br/>
 <br/>
-1 2 3 4 5 6 7
- 2 3 4 5 6 7
-  3 4 5 6 7
-   4 5 6 7
-    5 6 7
-     6 7
-      7
-     6 7
-    5 6 7
-   4 5 6 7
-  3 4 5 6 7
- 2 3 4 5 6 7
-1 2 3 4 5 6 7
+1 2 3 4 5 6 7<br/>
+ 2 3 4 5 6 7<br/>
+  3 4 5 6 7<br/>
+   4 5 6 7<br/>
+    5 6 7<br/>
+     6 7<br/>
+      7<br/>
+     6 7<br/>
+    5 6 7<br/>
+   4 5 6 7<br/>
+  3 4 5 6 7<br/>
+ 2 3 4 5 6 7<br/>
+1 2 3 4 5 6 7<br/>
 <br/>
 Solution Output:<br/>
-![alt text](http://url/to/img.png)<br/>
+![alt text](https://github.com/neerajkumar78/Assignment/blob/master/Tutree_Assignment/Question_1/output.png)<br/>
 
 
 Question 2:<br/>
@@ -34,4 +34,4 @@ substring ‘YZX’ present at index 6<br/>
 substring ‘XYZ’ present at index 9<br/>
 
 Solution Output:<br/>
-![alt text](http://url/to/img.png)<br/>
+![alt text](https://github.com/neerajkumar78/Assignment/blob/master/Tutree_Assignment/Question_2/output.png)<br/>
