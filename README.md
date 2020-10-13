@@ -17,7 +17,7 @@ Write a program in C++ to print the following pattern:<br/>
  2 3 4 5 6 7<br/>
 1 2 3 4 5 6 7<br/>
 <br/>
-</pre?>
+</pre>
 Solution Output:<br/>
 ![alt text](https://github.com/neerajkumar78/Assignment/blob/master/Tutree_Assignment/Question_1/output.png)<br/>
 
